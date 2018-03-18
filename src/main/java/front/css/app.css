@@ -1,0 +1,42 @@
+/*Header*/
+
+
+/* Footer */
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #f5f5f5;
+}
+
+.footer > a{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.footer > .text-muted {
+    margin: 20px;
+    font-size: 12pt;
+}
+
+/*Login form */
+.formDiv {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    max-width: 30%;
+    min-width: 20%;
+}
+
+.formDiv > form > input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.formDiv > p {
+    padding-top: 10px;
+}
+
+
+
